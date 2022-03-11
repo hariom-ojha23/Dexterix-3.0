@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>healthNcare</title>
         <meta name='description' content='Health and Care' />
-        <link rel='icon' href='/favicon.ico' />
+        <link rel='icon' href='/logo.png' />
       </Head>
 
       <main className={styles.main}>
